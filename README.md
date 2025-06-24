@@ -70,7 +70,7 @@ Security Analyst | Protocol Defender in the Making
 
 ## 🧭 Future Milestones
 
-- [ Done] Finalize system architecture diagram
+- [ ] Finalize system architecture diagram
 - [ ] Build base rule engine in Python (YAML triage parser)
 - [ ] Script sample runbooks and contract response templates
 - [ ] Integrate mock Forta alerts and simulate response pipeline
